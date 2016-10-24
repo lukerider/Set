@@ -1,1 +1,5 @@
 /bin/
+#Ignores anything that is hidden (on a mac)
+.*
+#Ignores .DS_Store (Mac specific)
+*DS_Store
